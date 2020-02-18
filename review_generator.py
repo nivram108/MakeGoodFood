@@ -25,7 +25,7 @@ def get_proper_text(text):
     text_list = text.split(". ")
     shorten_text = text_list[0] + ". " + text_list[1] + ". "
     if len(shorten_text) < 100 :
-        shorten_text = shorten_text + ". " + text_list[2]
+        shorten_text = shorten_text + text_list[2]
     return shorten_text
 def main():
     book = "pure_review"
