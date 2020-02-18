@@ -71,6 +71,7 @@ $ python food_generator.py --data_path your/image/data/folder/path/
 Mainly reimplement from [conan7882/fast-style-transfer](https://github.com/conan7882/fast-style-transfer) and retrain our own model.
 We use [this dataset](https://www.kaggle.com/vermaavi/food11) to train, while using a [food-related image](https://i.imgur.com/3NfhbhW.jpg) from [Food Wars!: Shokugeki no Soma](https://en.wikipedia.org/wiki/Food_Wars!:_Shokugeki_no_Soma)([食戟のソーマ](https://ja.wikipedia.org/wiki/%E9%A3%9F%E6%88%9F%E3%81%AE%E3%82%BD%E3%83%BC%E3%83%9E))
 Here are some examples from transferring real food photo:
+
 ![](https://i.imgur.com/I0Tvi0W.png) ![](https://i.imgur.com/JiEC3ll.png)
 
 ![](https://i.imgur.com/WYI0IPK.png) ![](https://i.imgur.com/dq4uWYZ.png)
