@@ -111,3 +111,7 @@ input prefix: If this burger
 ```
 $ python review_generator.py
 ```
+---
+## Author
+Kehua Lei
+Marvin Yang
